@@ -1,3 +1,3 @@
 # Learning_note
 
-Some learning note and illustration of classical theories.
+Learning note and illustration of classical theories.
